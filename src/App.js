@@ -19,7 +19,7 @@ function Todo({ todo, index, markTodo, removeTodo }) {
     </div>
   );
 }
-
+//declaration
 function App(){
   return(
     <div className="app">
